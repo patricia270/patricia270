@@ -22,19 +22,22 @@
 <br />
 <br />
 
-<div align="center">
+<h2 align="center">
   <a href="https://github.com/patricia270">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=patricia270&show_icons=true&bg_color=FFE4E1&title_color=FF0080&icon_color=FF0080&text_color=FF69B4&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricia270&layout=compact&langs_count=7&bg_color=FFE4E1&title_color=FF0080&icon_color=FFE135&text_color=FF69B4"/>
-</div>
+ </a>
+</h2>
 
-### Contact me :)
+<p align="center"><em>Let's connect and chat</em> ^-^</p>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/patricia-silva-silva/" target="_blank"> 
-    <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" />
   </a> 
   <a href = "mailto:patriciasilva.eq@gmail.com" target="_blank">
-    <img align="left" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" target="_blank" />
+    <img width="40px" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" target="_blank" />
   </a>
+</div>
   
-
 
