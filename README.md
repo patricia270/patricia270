@@ -17,4 +17,14 @@
  <img align="left" width="40px" alt="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
  <img align="left" width="40px" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="left" width="40px" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
- 
+<br />
+<br />
+<br />
+
+<div align="center">
+  <a href="https://github.com/patricia270">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=patricia270&show_icons=true&bg_color=FFA9D6&title_color=FF007f&icon_color=FFE135&text_color=FF1493&include_all_commits=true&count_private=true"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricia270&layout=compact&langs_count=7&bg_color=FFA9D6&title_color=FF007f&icon_color=FFE135&text_color=FF1493"/>
+</div>
+
+
