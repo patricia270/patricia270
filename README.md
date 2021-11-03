@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/patricia270">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=patricia270&show_icons=true&bg_color=FFE4E1&title_color=FF0080&icon_color=FF0080&text_color=FF69B4&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricia270&layout=compact&langs_count=7&bg_color=FFE4E1&title_color=FF0080&icon_color=FFE135&text_color=FF69B4"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=patricia270&show_icons=true&bg_color=FFE4E1&title_color=FF0080&icon_color=FF0080&text_color=FF69B4&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricia270&layout=compact&langs_count=7&bg_color=FFE4E1&title_color=FF0080&icon_color=FFE135&text_color=FF69B4"/>
 </div>
 
 
