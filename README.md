@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/patricia-silva-silva/" target="_blank"> 
     <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" />
   </a> 
-  <a href = "mailto:patriciasilva.eq@gmail.com">
+  <a href = "mailto:patriciasilva.eq@gmail.com" target="_blank">
     <img align="left" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" target="_blank" />
   </a>
   
